@@ -1,0 +1,11 @@
+{
+  "rows": 15,
+  "median_price_by_category": {
+    "Camera": 32000.0,
+    "Electronics": 20000.0,
+    "Fashion": 4500.0,
+    "Furniture": 13500.0,
+    "Laptop": 45000.0,
+    "Mobile": 15000.0
+  }
+}

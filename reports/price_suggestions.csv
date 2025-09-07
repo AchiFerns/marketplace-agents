@@ -1,0 +1,17 @@
+id,title,category,brand,condition,age_months,asking_price,location,suggested_price_min,suggested_price_max,reason
+1,iPhone 12,Mobile,Apple,Good,24,35000.0,Mumbai,22994,29266,"Suggested based on asking price 35000.0, category Mobile (rate 1.20%/month), age 24 months, condition Good, brand Apple."
+2,Redmi Note 11,Mobile,Xiaomi,Like New,8,11000.0,Delhi,9228,11745,"Suggested based on asking price 11000.0, category Mobile (rate 1.20%/month), age 8 months, condition Like New, brand Xiaomi."
+3,OnePlus Nord 2,Mobile,OnePlus,Fair,30,15000.0,Bangalore,7351,9356,"Suggested based on asking price 15000.0, category Mobile (rate 1.20%/month), age 30 months, condition Fair, brand Oneplus."
+4,Dell Inspiron Laptop,Laptop,Dell,Good,36,28000.0,Pune,16905,21515,"Suggested based on asking price 28000.0, category Laptop (rate 0.90%/month), age 36 months, condition Good, brand Dell."
+5,HP Pavilion Gaming,Laptop,HP,Like New,12,45000.0,Hyderabad,37305,47479,"Suggested based on asking price 45000.0, category Laptop (rate 0.90%/month), age 12 months, condition Like New, brand Hp."
+6,Samsung Galaxy S21,Mobile,Samsung,Good,20,32000.0,Chennai,21013,26744,"Suggested based on asking price 32000.0, category Mobile (rate 1.20%/month), age 20 months, condition Good, brand Samsung."
+7,Nike Air Max Shoes,Fashion,Nike,Like New,6,4000.0,Kolkata,3544,4511,"Suggested based on asking price 4000.0, category Fashion (rate 1.50%/month), age 6 months, condition Like New, brand Nike."
+8,Sofa Set,Furniture,UrbanLadder,Good,48,12000.0,Gurgaon,7886,10037,"Suggested based on asking price 12000.0, category Furniture (rate 0.50%/month), age 48 months, condition Good, brand Urbanladder."
+9,LG Smart TV 43 inch,Electronics,LG,Good,18,22000.0,Jaipur,15916,20256,"Suggested based on asking price 22000.0, category Electronics (rate 0.80%/month), age 18 months, condition Good, brand Lg."
+10,Canon EOS 200D Camera,Camera,Canon,Like New,14,32000.0,Ahmedabad,26052,33158,"Suggested based on asking price 32000.0, category Camera (rate 0.90%/month), age 14 months, condition Like New, brand Canon."
+11,MacBook Air 2020,Laptop,Apple,Good,30,55000.0,Mumbai,36810,46849,"Suggested based on asking price 55000.0, category Laptop (rate 0.90%/month), age 30 months, condition Good, brand Apple."
+12,Motorola G60,Mobile,Motorola,Fair,28,9000.0,Delhi,4518,5751,"Suggested based on asking price 9000.0, category Mobile (rate 1.20%/month), age 28 months, condition Fair, brand Motorola."
+13,Wooden Dining Table,Furniture,Ikea,Good,40,15000.0,Bangalore,10261,13060,"Suggested based on asking price 15000.0, category Furniture (rate 0.50%/month), age 40 months, condition Good, brand Ikea."
+14,Adidas Ultraboost Shoes,Fashion,Adidas,Like New,10,5000.0,Pune,4170,5307,"Suggested based on asking price 5000.0, category Fashion (rate 1.50%/month), age 10 months, condition Like New, brand Adidas."
+15,PlayStation 4,Electronics,Sony,Good,60,18000.0,Hyderabad,9758,12419,"Suggested based on asking price 18000.0, category Electronics (rate 0.80%/month), age 60 months, condition Good, brand Sony."
+2025-09-07T15:51:06.052111,iPhone 12,Apple,24,35000,22994,29266,"The suggested price range of ₹22994 - ₹29266 for the iPhone 12 seems fair considering its age of 24 months, which is still relatively new for a second-hand device. Additionally, the 'Good' condition and high-end brand 'Apple' justify a premium price range.",groq,llama-3.1-8b-instant

@@ -1,0 +1,6 @@
+[
+  "tests/test_moderation.py::test_abusive_detection",
+  "tests/test_moderation.py::test_phone_detection",
+  "tests/test_moderation.py::test_safe_message",
+  "tests/test_moderation.py::test_spam_link_detection"
+]
